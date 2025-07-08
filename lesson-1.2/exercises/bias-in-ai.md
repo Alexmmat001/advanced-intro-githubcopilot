@@ -6,4 +6,4 @@ Now complete this exercise, you will [work directly with a model trained on real
 
 
 ### Reflections
-[What did you learn from this exercise]
+I learned that this model used a dataset that was biased in a lot of ways including ethnicity, and reliogion. 
