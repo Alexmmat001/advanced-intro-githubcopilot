@@ -4,13 +4,13 @@ Welcome to the Chatbot Model Comparison activity! Here, you will compare the out
 Complete the activity [here](https://igfnaqfcyl-13589482-i.codehs.me/index.html).  Then edit this page and write down your reflections here:
 
 ### Which model did you find performed best overall, and why?
-[Reflection Here]
+The model that performed the best was ChatGPT-4o because I found that its answers gave the reader exactly what they needed to know in the context of information.
 
 ### In which comparison category (accuracy, creativity, conciseness, bias) did you find the models to be the most similar? What about the most different?
-[Reflection Here]
+Yes I found the models to be somewhat similar when it came to giving responses.
 
 ### Were you surprised by any of the results?
-[Reflection Here]
+No I was not surprised.
 
 ### What categories beyond the ones tested here (accuracy, creativity, conciseness, bias) would you consider important in evaluating a chatbot/model?
-[Reflection Here]
+I would consider the credibility of each answers and how true they are.
